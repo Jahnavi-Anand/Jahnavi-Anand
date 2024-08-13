@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahnavi</h1>
 <h3 align="center">A passionate DevOps trainee and Web developer from India</h3>
 
-- 🌱 I’m currently learning **Docker and diving deep into Cyber Security**
+- 🌱 I’m currently learning **Various DevOps tools and diving deep into Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://jahnavi-anand.github.io/PORTFOLIO/](https://jahnavi-anand.github.io/PORTFOLIO/)
 
