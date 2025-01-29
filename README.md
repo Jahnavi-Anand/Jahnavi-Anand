@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jahnavi</h1>
 <h3 align="center">A passionate DevOps trainee and Web developer from India</h3>
 
-- 🌱 I’m currently learning **Various DevOps tools and diving deep into Cyber Security**
+- 🌱 I’m currently learning **Various DevOps tools and and a cool compiler design project**
 
 - 👨‍💻 All of my projects are available at [https://jahnavi-anand.github.io/PORTFOLIO/](https://jahnavi-anand.github.io/PORTFOLIO/)
 
 - 📫 How to reach me **jahnavianandxib@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W0Dne58hR0gD6sN-5xM_7m5Nb9OeRncG/view?usp=sharing](https://drive.google.com/file/d/1W0Dne58hR0gD6sN-5xM_7m5Nb9OeRncG/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1W0Dne58hR0gD6sN-5xM_7m5Nb9OeRncG/view?usp=sharing](https://drive.google.com/file/d/1dBj6gKBPaXKq3HmaLzTwKsAIdvHSyqlG/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
